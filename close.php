@@ -1,3 +1,0 @@
-<?
-   echo "<script>close();</script>";
-?>
